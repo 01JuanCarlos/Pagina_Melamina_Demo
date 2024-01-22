@@ -137,6 +137,12 @@ img {
      max-width: 100%;
      height: auto;
 }
+.logo a h1 {
+     font-size: 40px;
+     font-weight: bold;
+     font-family:system-ui,'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     color: white;
+}
 
  :focus {
      outline: 0;
